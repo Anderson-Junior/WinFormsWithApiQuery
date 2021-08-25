@@ -1,0 +1,17 @@
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\ECommerceSiteAPI.deps.json
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\ECommerceSiteAPI.runtimeconfig.json
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\ECommerceSiteAPI.runtimeconfig.dev.json
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\ECommerceSiteAPI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\bin\Debug\netcoreapp2.2\ECommerceSiteAPI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.csprojAssemblyReference.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.AssemblyInfoInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.AssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.csproj.CoreCompileInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.RazorAssemblyInfo.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.RazorAssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\netcoreapp2.2\ECommerceSiteAPI.genruntimeconfig.cache

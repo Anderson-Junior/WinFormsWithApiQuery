@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ORbF1C2SXlHhE+AFH05v/+o89maujQweRNLMcw0AmSqJJoHd3C/+k1YgaiDQrwf4ef2O2XRBfgY5Kssq3k8Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.lemos\\Desktop\\Estudos .NET\\API ASP.NET CORE EFC - luis_dev\\ECommerceSiteAPI\\ProductConsult\\ProductConsult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.lemos\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

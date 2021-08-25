@@ -1,0 +1,6 @@
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.csprojAssemblyReference.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.AssemblyInfoInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.AssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.csproj.CoreCompileInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\API ASP.NET CORE EFC - luis_dev\ECommerceSiteAPI\ECommerceSiteAPI\obj\Debug\net5.0\ECommerceSiteAPI.MvcApplicationPartsAssemblyInfo.cache
